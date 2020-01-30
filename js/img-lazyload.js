@@ -110,8 +110,5 @@ window.ImgLoad = (function (window,document){
 })(window,document);
 
 
-ImgLoad.lazy({
-    distance : 10000,
-    lazyTime : 10
-})
+
 
